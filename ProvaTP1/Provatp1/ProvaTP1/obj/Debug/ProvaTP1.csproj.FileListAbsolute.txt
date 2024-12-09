@@ -1,0 +1,14 @@
+C:\Users\Isabelly\source\repos\ProvaTP1\ProvaTP1\bin\Debug\ProvaTP1.exe.config
+C:\Users\Isabelly\source\repos\ProvaTP1\ProvaTP1\bin\Debug\ProvaTP1.exe
+C:\Users\Isabelly\source\repos\ProvaTP1\ProvaTP1\bin\Debug\ProvaTP1.pdb
+C:\Users\Isabelly\source\repos\ProvaTP1\ProvaTP1\obj\Debug\ProvaTP1.csproj.AssemblyReference.cache
+C:\Users\Isabelly\source\repos\ProvaTP1\ProvaTP1\obj\Debug\ProvaTP1.csproj.CoreCompileInputs.cache
+C:\Users\Isabelly\source\repos\ProvaTP1\ProvaTP1\obj\Debug\ProvaTP1.exe
+C:\Users\Isabelly\source\repos\ProvaTP1\ProvaTP1\obj\Debug\ProvaTP1.pdb
+C:\Users\aluno\Downloads\Provatp1-main\Provatp1-main\ProvaTP1\bin\Debug\ProvaTP1.exe.config
+C:\Users\aluno\Downloads\Provatp1-main\Provatp1-main\ProvaTP1\bin\Debug\ProvaTP1.exe
+C:\Users\aluno\Downloads\Provatp1-main\Provatp1-main\ProvaTP1\bin\Debug\ProvaTP1.pdb
+C:\Users\aluno\Downloads\Provatp1-main\Provatp1-main\ProvaTP1\obj\Debug\ProvaTP1.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Provatp1-main\Provatp1-main\ProvaTP1\obj\Debug\ProvaTP1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Provatp1-main\Provatp1-main\ProvaTP1\obj\Debug\ProvaTP1.exe
+C:\Users\aluno\Downloads\Provatp1-main\Provatp1-main\ProvaTP1\obj\Debug\ProvaTP1.pdb
